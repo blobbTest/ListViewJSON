@@ -1,0 +1,7 @@
+<project name="ListJSONTest" default="test">
+    	<target name="test">
+    	    <junit>
+    	        <test name="java_project_4TEST"/>
+    	    </junit>
+    	</target>
+</project>
