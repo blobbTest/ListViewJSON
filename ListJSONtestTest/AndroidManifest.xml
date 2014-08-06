@@ -8,7 +8,7 @@
 
     <instrumentation
         android:name="com.zutubi.android.junitreport.JUnitReportTestRunner"
-        android:targetPackage="com.cortado.listjsontest" />
+        android:targetPackage="com.cortado.listjson" />
 
     <application
         android:icon="@drawable/ic_launcher"
